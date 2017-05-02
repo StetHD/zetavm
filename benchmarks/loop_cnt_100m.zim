@@ -2,7 +2,7 @@
 
 main_entry = {
     instrs: [
-        { op: "push", val: 10000000 },
+        { op: "push", val: 100000000 },
         { op: "jump", to: @loop_test },
     ]
 };
